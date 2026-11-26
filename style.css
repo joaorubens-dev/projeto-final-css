@@ -505,9 +505,7 @@ footer .container{
                 display: grid;
                 grid-template-columns: 1fr;
                 .card{
-                    width: 260px;
-                    height: 300px;
-                    padding: 20px;
+                    border: none;
                 }
             }
         }
