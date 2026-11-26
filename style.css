@@ -506,6 +506,7 @@ footer .container{
                 grid-template-columns: 1fr;
                 .card{
                     width: 260px;
+                    padding: 20px;
                 }
             }
         }
